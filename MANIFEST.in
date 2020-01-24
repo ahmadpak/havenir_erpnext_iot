@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include havenir_erpnext_iot *.css
+recursive-include havenir_erpnext_iot *.csv
+recursive-include havenir_erpnext_iot *.html
+recursive-include havenir_erpnext_iot *.ico
+recursive-include havenir_erpnext_iot *.js
+recursive-include havenir_erpnext_iot *.json
+recursive-include havenir_erpnext_iot *.md
+recursive-include havenir_erpnext_iot *.png
+recursive-include havenir_erpnext_iot *.py
+recursive-include havenir_erpnext_iot *.svg
+recursive-include havenir_erpnext_iot *.txt
+recursive-exclude havenir_erpnext_iot *.pyc

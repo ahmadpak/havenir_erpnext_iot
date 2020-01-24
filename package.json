@@ -1,0 +1,11 @@
+{
+  "name": "havenir_erpnext_iot",
+  "version": "1.0.0",
+  "description": "IOT App for ERPNext",
+  "main": "index.js",
+  "repository": "https://github.com/MohammadAhmad1990/havenir_erpnext_iot.git",
+  "license": "MIT",
+  "dependencies": {
+    "vue-mqtt": "^2.0.3"
+  }
+}

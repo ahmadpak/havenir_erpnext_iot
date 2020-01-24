@@ -1,0 +1,6 @@
+{
+    "js/havenir_erpnext_iot.min.js": [
+        "public/js/export_tool/export_tool.js",
+        "public/js/havenir_erpnext_iot.js"
+    ]
+}
